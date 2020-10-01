@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="toast">TOAST!</string>
+    <string name="count">COUNT</string>
+    <string name="menu_2">MENU 2</string>
+    <string name="menu_1">MENU 1</string>
+    <string name="menu_3">MENU 3</string>
 </resources>
